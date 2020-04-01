@@ -8,7 +8,7 @@ class Shoe
 
   def cobble()
     self.condition = "new"
-    puts "Your shoe is as good as new!"
+     "Your shoe is is amazing!"
   end
 
 end
